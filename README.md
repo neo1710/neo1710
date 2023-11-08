@@ -11,6 +11,16 @@ LinkedIn -> https://www.linkedin.com/in/neeraj-dubey-710839231/
 
 Portfolio -> https://neo1710.github.io
 
+# Projects
+
+Sopaholics(Individual project)-> https://relaxed-baklava-60ca98.netlify.app/
+
+Techbazaar(Group project)-> https://techbazar-app.vercel.app/
+
+StyleSpot(Group project)-> https://stylespot.vercel.app/
+
+CharityHero(Group project)-> https://charityhero.vercel.app/
+
 <!--
 **neo1710/neo1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
