@@ -4,6 +4,13 @@
 
 ### A Full Stack Web Developer
 
+# About me
+I am Neeraj a Full Stack Web Developer who is skilled in HTML , CSS, JavaScript, React js, TypeScript, nodejs, MongoDB and some other tech stacks.
+
+LinkedIn -> https://www.linkedin.com/in/neeraj-dubey-710839231/
+
+Portfolio -> https://neo1710.github.io
+
 <!--
 **neo1710/neo1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
